@@ -1,5 +1,11 @@
 # @commercetools-test-data/core
 
+## 2.1.1
+
+### Patch Changes
+
+- [`55e636e`](https://github.com/commercetools/test-data/commit/55e636ea480e8bc9114da345641928a9696b773c) [#40](https://github.com/commercetools/test-data/pull/40) Thanks [@emmenko](https://github.com/emmenko)! - Upgrade preconstruct CLI to v2 for bundling.
+
 ## 2.1.0
 
 ### Minor Changes
